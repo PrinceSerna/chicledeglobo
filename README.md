@@ -14,12 +14,12 @@ That being said; to use you'll first need:
 3. scribbles: `ZSH_THEME='chicledefresa'` in your `~/.zshrc` file
 4. lastly, reload your terminal by running: `zsh`
 
-![Screen Shot 2022-08-19 at 5 06 36 PM](https://user-images.githubusercontent.com/17882637/185707259-7a5568c7-f202-4150-8360-e96dda2d4367.png)
+![Screen Shot 2022-08-19 at 5 15 38 PM](https://user-images.githubusercontent.com/17882637/185708263-bf35f976-0a40-4a06-abed-75169a1d510e.png)
 
 ## credits
 I was inspired by seeing the bubblegum-zsh theme: 
 https://github.com/oddhorse/bubblegum-zsh 
-~ by @oddhorse. 
+~ by @oddhorse
 
 ## license
 (ɔ) 2022 ρɾιɳƈҽ
